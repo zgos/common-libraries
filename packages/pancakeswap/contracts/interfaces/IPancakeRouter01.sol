@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-pragma solidity >=0.6.2;
+pragma solidity ^0.8.10;
 
 interface IPancakeRouter01 {
     function factory() external pure returns (address);
